@@ -1,5 +1,5 @@
 git init
-sudo git add .
-sudo git checkout master
- sudo git commit -am "first commit"
+git add .
+git commit -m "first commit"
+git remote add origin https://github.com/elmarariabderrahim/oldrepo.git
 git push -u origin master
